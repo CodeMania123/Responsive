@@ -1,2 +1,3 @@
 # Responsive
-A Simple Responsive Module
+A quick and Simple Responsive Website;
+Responsive in Mobile size, Tablet size.
